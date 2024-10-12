@@ -1,0 +1,19 @@
+ Installation Complete!
+
+Congratulations! Nova 360 has been successfully installed on your system.
+
+ Next Steps:
+- Launch the Application: You can now start using Nova 360 by clicking the desktop icon or finding it in your Start Menu under Nova 360.
+- First-Time Setup: If this is your first time using Nova 360, follow the setup wizard within the application to customize your preferences.
+- Explore Key Features: Visit our [User Guide](https://www.turknovatech.com/docs) to learn more about how to get the most out of Nova 360.
+  
+ Useful Resources:
+- Help Center: Find answers to common questions and troubleshooting tips on our [Help Center](https://www.turknovatech.com/help).
+- Video Tutorials: Check out our [Tutorials](https://www.turknovatech.com/tutorials) for step-by-step guides on using different features of Nova 360.
+- Support: For further assistance, contact our support team via email at support@turknovatech.com.
+
+ Stay Updated:
+- Automatic Updates: Nova 360 will automatically check for updates to ensure you always have the latest features and security enhancements.
+- Join Our Community: Stay connected with other users by joining our [User Forum](https://www.turknovatech.com/community) to share ideas and best practices.
+
+Thank you for choosing Nova 360! We hope you enjoy the experience.

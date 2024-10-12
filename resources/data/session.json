@@ -1,0 +1,8 @@
+{
+    "username": "john_doe",
+    "role": "admin",
+    "preferences": {
+        "theme": "dark",
+        "language": "fr"
+    }
+}

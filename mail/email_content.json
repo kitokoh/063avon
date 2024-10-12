@@ -1,0 +1,10 @@
+{
+    "mail1": {
+        "subject": "Confirmation de votre compte",
+        "body": "Bonjour {username},\n\nMerci de vous être inscrit sur notre site. Votre compte a été créé avec succès."
+    },
+    "mail2": {
+        "subject": "Rappel de mot de passe",
+        "body": "Bonjour {username},\n\nNous avons reçu une demande de réinitialisation de votre mot de passe."
+    }
+}

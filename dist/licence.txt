@@ -1,0 +1,34 @@
+ End User License Agreement (EULA)
+
+Please read this End User License Agreement ("EULA") carefully before using the Nova 360 application.
+
+This EULA is a legal agreement between you (the "user") and Nova360, Inc. for the use of the Nova 360 application, which includes any related software, media, updates, and documentation.
+
+ 1. Acceptance of the Agreement
+By installing, copying, or using Nova 360, you agree to comply with the terms of this EULA. If you do not agree to these terms, you may not install or use this application.
+
+ 2. License Grant
+Nova360, Inc. grants you a non-exclusive, non-transferable, and limited license to use Nova 360 in accordance with the terms of this EULA. This license does not give you any ownership rights to the source code or other intellectual property of the application.
+
+ 3. Restrictions
+You agree not to:
+- Modify, decompile, disassemble, or reverse-engineer Nova 360.
+- Rent, lease, distribute, or transfer the rights to the application.
+- Use the application for any illegal or unauthorized activities.
+
+ 4. Intellectual Property Rights
+All copyrights, trademarks, and other intellectual property rights related to Nova 360 belong to Nova360, Inc.. The use of these assets is governed by copyright laws and other intellectual property regulations.
+
+ 5. Disclaimer of Warranties
+Nova 360 is provided "as is" without any warranty of any kind. Nova360, Inc. does not warrant that the application will operate uninterrupted or error-free. You assume all risks associated with the use of the application.
+
+ 6. Limitation of Liability
+To the fullest extent permitted by law, Nova360, Inc. shall not be held liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use Nova 360.
+
+ 7. Termination
+This EULA will be automatically terminated if you breach any provision of this agreement. Upon termination, you must uninstall and cease all use of Nova 360.
+
+ 8. Governing Law
+This EULA is governed by the laws of the country where Nova360, Inc. is based. Any disputes arising from this agreement will be subject to the exclusive jurisdiction of the courts in that country.
+
+By using Nova 360, you acknowledge that you have read, understood, and agree to be bound by the terms of this EULA.

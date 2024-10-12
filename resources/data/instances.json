@@ -1,0 +1,22 @@
+{
+    "instances": [
+        {
+            "name": "Instance 1",
+            "description": "Description de l'instance 1",
+            "user": "Utilisateur A",
+            "expire_date": "2024-12-31"
+        },
+        {
+            "name": "Instance 2",
+            "description": "Description de l'instance 2",
+            "user": "Utilisateur B",
+            "expire_date": "2025-01-15"
+        },
+        {
+            "name": "Instance 3",
+            "description": "Description de l'instance 3",
+            "user": "Utilisateur C",
+            "expire_date": "2025-02-20"
+        }
+    ]
+}

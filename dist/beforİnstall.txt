@@ -1,0 +1,26 @@
+ Welcome to Nova 360 Installation!
+
+Thank you for choosing Nova 360, an advanced tool designed to help you achieve more with less effort. Before proceeding with the installation, please take a moment to review the key features and important information about the application.
+
+ Key Features of Nova 360:
+- Comprehensive Dashboard: Get a full view of your projects and data with a clean, intuitive interface.
+- High Performance: Enjoy lightning-fast operations thanks to optimized code for better performance.
+- Multi-Platform Support: Seamlessly compatible with Windows 10, Windows 11, and x64 architectures.
+- File Compatibility: Handle multiple file types efficiently with our custom file extension `.myp`.
+- User-Friendly Design: Simple navigation and easy-to-understand features, perfect for both beginners and professionals.
+- Automatic Updates: Stay up-to-date with the latest improvements and security patches.
+- Secure Data Handling: Your data is encrypted and managed securely to ensure privacy and compliance.
+
+ System Requirements:
+- Operating System: Windows 10, Windows 11 (x64 versions only)
+- Memory: Minimum 4 GB RAM recommended
+- Disk Space: 100 MB of free disk space
+- Processor: Dual-core processor or higher
+
+ Additional Information:
+- Publisher: Nova360, Inc.
+- Official Website: [www.turknovatech.com](https://www.turknovatech.com/)
+- License Agreement: By proceeding with the installation, you agree to the terms outlined in our [End User License Agreement (EULA)].
+- Support: For any questions or issues during the installation, please visit our [Support Page](https://www.turknovatech.com/support) or contact us directly at support@turknovatech.com.
+
+Click Next to proceed with the installation of Nova 360.

@@ -1,0 +1,4 @@
+server=smtp.turknovatech.com
+port=587
+username=info@turknovatech.com
+password=7LdXDMXLkQ7G

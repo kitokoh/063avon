@@ -1,0 +1,21 @@
+[
+    {
+        "username": "user1",
+        "password": "hashed_password",
+        "email": "user1@example.com",
+        "role": "admin",
+        "signup_date": "2023-01-01"
+    },
+    {
+        "username": "user2",
+        "password": "hashed_password",
+        "email": "user2@example.com",
+        "role": "user",
+        "signup_date": "2023-01-15"
+    },
+    {
+        "username": "hashed_passwordhashed_password",
+        "password": "75f9c3f51a96bc06d731c76ddf427e3d80faedf2e427184a4b2f9c8252c1f48e",
+        "email": "a@a.com"
+    }
+]
